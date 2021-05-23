@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 #### If you don't say what you think then you kill your unborn self. 
 Jordan Peterson
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamin-daniel&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=papidb&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/benjamin-daniel)
