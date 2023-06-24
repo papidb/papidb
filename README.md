@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
 
-<!--
-**benjamin-daniel/benjamin-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+Hello!, I'm Daniel Benjamin a Software Engineer based in Lagos Nigeria🇳🇬.
 
 - 🔭 I’m currently working on [Lissen.live](https://www.lissen.live/).
 - 🌱 I’m currently learning ZIG.
@@ -13,8 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript, Typescript React Native.
 - 📫 How to reach me: [email](mailto:benjamindaniel706@gmail.com)
 - ⚡ Fun fact: I watch anime, and enjoy watching sci-fi.
-
-
 
 #### Useful Links
 - [Portfolio](https://wiggly-afternoon-34b.notion.site/Benjamin-Daniel-s-Portfolio-596e003f552b44bb8311e8b5d9a6f3e5?pvs=4)
