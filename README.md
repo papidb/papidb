@@ -6,25 +6,19 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Nosh.ng](https://nosh.ng).
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m currently working on [Lissen.live](https://www.lissen.live/).
+- 🌱 I’m currently learning ZIG.
 - 👯 I’m looking to collaborate on `Nodejs`.
 - 🤔 I’m looking for help with getting a new React Native Job.
 - 💬 Ask me about Javascript, Typescript React Native.
-- 📫 How to reach me: email [benjamindaniel706@gmail.com](mailto:benjamindaniel706@gmail.com) and on twitter via [@papidb](https://twitter.com/papidb).
-- ⚡ Fun fact: I watch anime, and enjoy watching series.
+- 📫 How to reach me: [email](mailto:benjamindaniel706@gmail.com)
+- ⚡ Fun fact: I watch anime, and enjoy watching sci-fi.
 
 
 
 #### Useful Links
-- [Twitter](https://twitter.com/papidb)
+- [Portfolio](https://wiggly-afternoon-34b.notion.site/Benjamin-Daniel-s-Portfolio-596e003f552b44bb8311e8b5d9a6f3e5?pvs=4)
 - [LinkedIn](https://www.linkedin.com/in/benjamin-daniel/)
 - [Dev.to](https://dev.to/benjamindaniel)
 
-
-#### If you don't say what you think then you kill your unborn self. 
-Jordan Peterson
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=papidb&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/benjamin-daniel)
